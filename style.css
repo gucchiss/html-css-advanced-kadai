@@ -83,6 +83,7 @@ PC用のスタイル
   #menu-sp {
     float: right;
     padding: 0;
+    border: none;
   }
 
   #nav-sp {
